@@ -1,4 +1,4 @@
-package pertermuan_pertama_paw;
+package pertemuan_kelima;
 
 public class whileloop {
     public static void main(String[] args) {

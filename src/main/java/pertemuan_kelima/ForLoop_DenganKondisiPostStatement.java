@@ -1,4 +1,4 @@
-package pertermuan_pertama_paw;
+package pertemuan_kelima;
 
 public class ForLoop_DenganKondisiPostStatement {
     public static void main(String[] args) {
